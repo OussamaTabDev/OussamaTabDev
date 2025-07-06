@@ -6,7 +6,7 @@
 - 🖥️ I develop full-stack web applications with **PHP (Vanilla & Laravel)**, **Django**, and **Flask**
 - 🧠 I'm exploring **AI & Machine Learning**, especially in the field of **fault detection and prediction in electrical systems**
 - 🖼️ I'm building OCR & digitization tools for Arabic handwritten text and Quran manuscripts
-- 📱 I build cross-platform mobile apps using **Flutter** and **Kotlin**
+- 📱 I build cross-platform mobile apps
 - 🛠️ I'm also working with **Godot** for 2D game development, with a focus on AI behavior and gameplay polish
 
 🧪 **Current Projects**
