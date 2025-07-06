@@ -13,7 +13,6 @@
 - **📚 University Library System** (Django): full library management (borrowing, digital content, reports)
 - **🧠 AI-based Fault Detection System**: ML and deep learning models (FNN, CNN, LSTM, SVC, etc.)
 - **📖 Mushaf Muhammadi Digitization**: Custom Arabic font, OCR system, and full Islamic app with Quran, Tajweed, Adhkar
-- **🕹️ 2D Platformer & Shooter Games** (Godot 4.3): with advanced movement, enemy AI, and pixel-art style
 
 🛠️ **Tech Stack**
 ```text
