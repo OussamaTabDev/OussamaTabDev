@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Oussama — Developer & Tech Enthusiast
 
-🎓 I'm a Computer Science student at **UMI Meknes** (B.Sc. in Mathematics & Computer Science), passionate about building practical, creative, and meaningful software.
-
+🎓 I'm a Computer Science student at **UMI Meknes** (B.Sc. in Mathematics & Computer Science), passionate about building practical, creative, and meaningful software. <br/>
+**My website :** [OussamaTabzioui.com](https://oussamatabdev.github.io/oussama-digital-canvas/)
+<br/>
+<br/>
 🚀 **What I Do**
 - 🖥️ I develop full-stack web applications with **PHP (Vanilla & Laravel)**, **Django**, and **Flask**
 - 🧠 I'm exploring **AI & Machine Learning**, especially in the field of **fault detection and prediction in electrical systems**
