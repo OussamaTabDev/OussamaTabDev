@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oussama — Developer & Tech Enthusiast
 
 🎓 I'm a Computer Science student at **UMI Meknes** (B.Sc. in Mathematics & Computer Science), passionate about building practical, creative, and meaningful software. <br/>
-**My website :** [OussamaTabzioui.com](https://oussamatabdev.github.io/oussama-digital-canvas/)
+**My website :** [OussamaTabzioui.com](https://oussamatabdev.github.io/oussama-tabzioui)
 <br/>
 <br/>
 🚀 **What I Do**
